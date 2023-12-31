@@ -50,7 +50,7 @@
 [pull]
   rebase = false
 [user]
-	email = nmanoharanÂ@me.com
+	email = nmanoharan@me.com
 	name = nicolas manoharan
 [credential "https://github.com"]
 	helper = 
